@@ -1,0 +1,49 @@
+ body{
+    background-color: bisque;
+}
+h1{
+    font-family: Arial;
+    font-size: 40px;
+    text-align: center;
+    color: dimgray;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: dimgray;
+}
+p{
+    
+    font-size: 20px;
+    color: dimgray;
+    text-align: center;
+}
+.imagemPrincipal{
+    width:500px ;
+    height: 300px;
+
+}
+.geral{
+    width: 900px;
+    margin: auto;
+    background-color: darkgray;
+    padding: 10px;
+    text-align: center;
+}
+header{
+    background-color: antiquewhite;
+    padding: 5px;
+}
+nav{
+    background-color: antiquewhite;
+    padding: 5px;
+    font-family: Arial; 
+    font-weight: bold;
+}
+a:link{
+    color: darkviolet;
+}
+a:visited{
+    color: green;
+}
